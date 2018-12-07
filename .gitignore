@@ -2,6 +2,14 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+# AMapFoundationKit.framework
+# MAMapKit.framework
+# AMapSearchKit.framework
+# AMapLocationKit.framework
+# AMapNaviKit.framework
+
+*.framework
+
 ## Build generated
 build/
 DerivedData/
